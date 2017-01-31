@@ -1,4 +1,6 @@
 Password-Generator
 ==================
-Hey, from all the people that have been loosing accounts to weak passwords, or just getting hacked. This program is just for you.
-This program creates a strong password for any website.
+
+I created this software when I was like 11 years old and building my first Visual Basic program, and it's okay. 
+
+STATUS: DONE
